@@ -1,0 +1,9 @@
+[submodule "Capstone2_X-Ray_Edge-Detection2020"]
+	path = Capstone2_X-Ray_Edge-Detection2020
+	url = https://github.com/ssm0318/Capstone2_X-Ray_Edge-Detection2020.git
+[submodule "SoftwareDevelopment2020"]
+	path = SoftwareDevelopment2020
+	url = https://github.com/ssm0318/SoftwareDevelopment2020.git
+[submodule "HardwareSystemDesign2021"]
+	path = HardwareSystemDesign2021
+	url = https://github.com/ssm0318/HardwareSystemDesign2021
