@@ -13,7 +13,7 @@ Required Courses @SNU CSE:
 10. Systems Programming
 11. Capstone 1/2
 
-Electives taken:
-12. Mobile Computing and its Applications
-13. Programming Practice
-14. Computer Engineering Seminar
+Electives taken:  
+12. Mobile Computing and its Applications  
+13. Programming Practice  
+14. Computer Engineering Seminar  
