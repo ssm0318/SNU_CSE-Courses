@@ -17,3 +17,4 @@ Electives taken:
 12. Mobile Computing and its Applications  
 13. Programming Practice  
 14. Computer Engineering Seminar  
+15. Studies in Human-Centered Computing
