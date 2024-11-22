@@ -22,3 +22,6 @@
 [submodule "MobileComputing2018"]
 	path = MobileComputing2018
 	url = https://github.com/ssm0318/MobileComputing2018.git
+[submodule "SystemProgramming2021"]
+	path = SystemProgramming2021
+	url = https://github.com/ssm0318/SystemProgramming2021
