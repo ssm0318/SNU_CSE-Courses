@@ -7,3 +7,18 @@
 [submodule "HardwareSystemDesign2021"]
 	path = HardwareSystemDesign2021
 	url = https://github.com/ssm0318/HardwareSystemDesign2021
+[submodule "Algorithm2020"]
+	path = Algorithm2020
+	url = https://github.com/ssm0318/Algorithm2020
+[submodule "ComputerArchitecture2021"]
+	path = ComputerArchitecture2021
+	url = https://github.com/ssm0318/ComputerArchitecture2021
+[submodule "ComputerProgramming2019"]
+	path = ComputerProgramming2019
+	url = https://github.com/ssm0318/ComputerProgramming2019
+[submodule "LogicDesign2018"]
+	path = LogicDesign2018
+	url = https://github.com/ssm0318/LogicDesign2018.git
+[submodule "MobileComputing2018"]
+	path = MobileComputing2018
+	url = https://github.com/ssm0318/MobileComputing2018.git
