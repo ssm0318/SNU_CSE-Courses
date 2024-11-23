@@ -1,6 +1,6 @@
 # SNU_CSE-Courses
 
-Required Courses @SNU CSE:
+The required courses for Computer Science and Engineering (CSE) Major @Seoul National University (SNU) are as follows:
 1. Discrete Mathematics
 2. Computer Architecture
 3. Computer Programming
@@ -11,9 +11,10 @@ Required Courses @SNU CSE:
 8. Hardware System Design
 9. Principles and Practices of SW Development
 10. Systems Programming
-11. Capstone 1/2
+11. Capstone 1/2  
+(+ foundational electives)  
 
-Electives taken:  
+Major Electives taken:  
 12. Mobile Computing and its Applications  
 13. Programming Practice  
 14. Computer Engineering Seminar  
